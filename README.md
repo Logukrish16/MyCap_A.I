@@ -1,5 +1,5 @@
 # artificial intelligence workshop 
-python code done in jupyter notebook
+python code done in jupyter notebook.
 list of programs are
 1. fibonacci
 2. positive numbers in a range
