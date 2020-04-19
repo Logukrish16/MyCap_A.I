@@ -6,5 +6,6 @@ list of programs are
 3. accessing tuples
 4. assigning lists
 5. deletion element in dictionary
+6. random password generators
 # ML category basic simple projects
 1. SUPERVISED MACHINE LEARNING -Classification (image classifier) -Regression (regresipon analysis of boston datasets)
