@@ -8,5 +8,5 @@ list of programs are
 5. deletion element in dictionary
 6. random password generators
 # ML category basic simple projects
-1. SUPERVISED MACHINE LEARNING -Classification (image classifier) -Regression (regresipon analysis of boston datasets)
+1. SUPERVISED MACHINE LEARNING -Classification (image classifier) -Regression (regression analysis of boston datasets)
 2. ML project created with several models like k nearest neighbor, SVM, Logistic Regression, linear discriminant analysis, gaussian naive bayes , classification and regression.
